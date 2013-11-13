@@ -17,9 +17,9 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: rails-4_01-initial-commit_development
+  database: rails-4_01-initial-commit_development_CpViEl9sDBWO7CP52cjBIA
   pool: 5
-  username: rails-4_01-initial-commit
+  username: amorphid
   password:
 
   # Connect on a TCP socket. Omitted by default since the client uses a
@@ -46,15 +46,15 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: rails-4_01-initial-commit_test
+  database: rails-4_01-initial-commit_test_CpViEl9sDBWO7CP52cjBIA
   pool: 5
-  username: rails-4_01-initial-commit
+  username: amorphid
   password:
 
 production:
   adapter: postgresql
   encoding: unicode
-  database: rails-4_01-initial-commit_production
+  database: rails-4_01-initial-commit_development_CpViEl9sDBWO7CP52cjBIA
   pool: 5
-  username: rails-4_01-initial-commit
+  username: amorphid
   password:
